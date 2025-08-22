@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3078ebcd5034b340bfe7699586c2585, type: 3}
+  m_Name: Year2022
+  m_EditorClassIdentifier: 
+  yearAchievments:
+  - {fileID: 11400000, guid: 947e6b02d005a2b43979a5be23035667, type: 2}
+  - {fileID: 11400000, guid: be6d9f66b7a90c149b318a32d6d37571, type: 2}
+  - {fileID: 11400000, guid: ccf51b805837a6749ba3ca7bca75cdb4, type: 2}
+  - {fileID: 11400000, guid: fe9eeb3a1eb887345bd70d0163135c66, type: 2}
+  - {fileID: 11400000, guid: 66920c04ec4f0ab40bca12df153981f3, type: 2}
+  - {fileID: 11400000, guid: 63760e2c275fd45438335f9db5b60e21, type: 2}
+  - {fileID: 11400000, guid: 7cd70cb6382852f4fb11f8d190c3118a, type: 2}
+  - {fileID: 11400000, guid: 3f2ba69119c555344b82a5217cfef9c4, type: 2}
+  - {fileID: 11400000, guid: 39877bab585aefb479cc610d46901916, type: 2}
+  - {fileID: 11400000, guid: 0fc29d3d9e808124d9f24aa0bea8000d, type: 2}
+  - {fileID: 11400000, guid: af863569dd2a43b4e9f90a3a651ac3a9, type: 2}
+  - {fileID: 11400000, guid: 4b42c9e4c1166dc4d9f3cf730a45faf2, type: 2}
+  - {fileID: 11400000, guid: e122808426a63b34b95c96caaa46e58a, type: 2}
+  - {fileID: 11400000, guid: c83de0094f13dd54b873082c076fc07c, type: 2}
+  - {fileID: 11400000, guid: 41561a73cce31814cbc970f57daf2202, type: 2}
+  - {fileID: 11400000, guid: bed67dceab7991d4e8e5259cb106bfe1, type: 2}
+  - {fileID: 11400000, guid: 381dd0abd774ecb4b9d9c9941877a7dc, type: 2}
+  - {fileID: 11400000, guid: 2102c5c06fdf88f4cba983f74b0252f7, type: 2}
+  year: 8
+  achievementYear: 2022
+  yearDescriptions: 

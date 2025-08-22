@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daa06caf8df6dd74c867b8f44508d57e, type: 3}
+  m_Name: OrganizeT
+  m_EditorClassIdentifier: 
+  audioEntries:
+  - clipName: TrashDispose
+    clip: {fileID: 8300000, guid: d39b99f649d9cee4b98952441f3f1960, type: 3}
+  - clipName: BackgroundSound
+    clip: {fileID: 8300000, guid: c106e71e8246a71418d379c8f91611e9, type: 3}
+  - clipName: ButtonClick
+    clip: {fileID: 8300000, guid: 8629a6d1dc77a834480ddfad00548acb, type: 3}
+  - clipName: ButtonHover
+    clip: {fileID: 8300000, guid: 7aca958d36732b742bb4e35f594b65bd, type: 3}
+  - clipName: GameWin
+    clip: {fileID: 8300000, guid: ef87a230c8cd3d94bbb15dad781fb072, type: 3}
+  - clipName: GameLost
+    clip: {fileID: 8300000, guid: ab1e7f8e07ed2bc428d55600080b7589, type: 3}
+  - clipName: GrabTrophy
+    clip: {fileID: 8300000, guid: 91f7a9705ec36844983bbb44daf33be8, type: 3}
+  - clipName: GrabTrace
+    clip: {fileID: 8300000, guid: 877bc57e711654c488bcb82d44092dfb, type: 3}
+  - clipName: CorrectPlaced
+    clip: {fileID: 8300000, guid: b86df5082c2bbb14dbe6bbd8ecab2199, type: 3}
+  - clipName: IncorrectPlaced
+    clip: {fileID: 8300000, guid: 9760930d75bc7484f9aca643df722c95, type: 3}
+  - clipName: 4minsRemaining
+    clip: {fileID: 8300000, guid: b1b5858296305c24f9b5a7c356f7f3b3, type: 3}
+  - clipName: 3minsRemaining
+    clip: {fileID: 8300000, guid: e8b718dc7f7d4fa438a1a480f54e4483, type: 3}
+  - clipName: 2minsRemaining
+    clip: {fileID: 8300000, guid: 24a626a47a5220c40a80722cca51214e, type: 3}
+  - clipName: 1minsRemaining
+    clip: {fileID: 8300000, guid: 4eade06df1ea1ce498acf20b7ee62fb1, type: 3}
+  - clipName: 30secsRemaining
+    clip: {fileID: 8300000, guid: 89a686c07c1f68948bba41c41f6bd12a, type: 3}
+  - clipName: 10secsRemaining
+    clip: {fileID: 8300000, guid: 9c696e0085eb0d94ea1b367a384faa9b, type: 3}
+  - clipName: Speech1
+    clip: {fileID: 8300000, guid: 538835f17c03f1540bda2ee7ec1c858e, type: 3}
+  - clipName: Speech2
+    clip: {fileID: 8300000, guid: 959f926fec2634e45911429069ddfecc, type: 3}
+  - clipName: Speech3
+    clip: {fileID: 8300000, guid: 5f6c41bb0b3f00b4599ac61835a30a16, type: 3}
+  - clipName: Speech4
+    clip: {fileID: 8300000, guid: fa2997017849a5342952e7fbcbe48bee, type: 3}
+  - clipName: Speech5
+    clip: {fileID: 8300000, guid: ef70fb53269d3a84b9efd1a029bc5649, type: 3}
+  - clipName: timesup
+    clip: {fileID: 8300000, guid: ca8a54537e2837448873cf1896d556d9, type: 3}
+  - clipName: welldone
+    clip: {fileID: 8300000, guid: e3a8f639422f1a845923f07498ee670a, type: 3}
+  - clipName: Speech6
+    clip: {fileID: 8300000, guid: 0f39b1fb1140ea5428556683a27ef29f, type: 3}

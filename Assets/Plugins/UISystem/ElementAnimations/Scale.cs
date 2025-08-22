@@ -1,0 +1,39 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+namespace UISystem
+{
+    public class Scale : Animatable
+    {
+		public Vector3 fromScale;
+        public Vector3 toScale;
+		public Vector3 finalScale;
+
+		float animPerc;
+
+
+        public override void OnAnimationStarted()
+		{
+			base.OnAnimationStarted();
+			rectTransform.localScale = fromScale;
+		}
+		public override void OnAnimationRunning(float animPerc)
+		{
+			base.OnAnimationRunning(animPerc);
+
+			this.animPerc = animPerc;
+			rectTransform.localScale = Vector3.LerpUnclamped(fromScale, toScale, animPerc);
+
+          
+        }
+
+		 
+		
+		public override void OnAnimationEnded()
+		{
+			base.OnAnimationEnded();
+            rectTransform.localScale = Vector3.LerpUnclamped(toScale, finalScale, animPerc);
+        }
+    }
+}
+

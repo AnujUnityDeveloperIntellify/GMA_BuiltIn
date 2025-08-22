@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daa06caf8df6dd74c867b8f44508d57e, type: 3}
+  m_Name: BuildTheModel
+  m_EditorClassIdentifier: 
+  audioEntries:
+  - clipName: BackgroundMusic
+    clip: {fileID: 8300000, guid: c106e71e8246a71418d379c8f91611e9, type: 3}
+  - clipName: ChunkPicked
+    clip: {fileID: 8300000, guid: 47a04c7581d0cdd41899315624cfb98a, type: 3}
+  - clipName: ChunkSnap
+    clip: {fileID: 8300000, guid: d9c549b3d3ff6fb4a9447c91f06de960, type: 3}
+  - clipName: Complete
+    clip: {fileID: 8300000, guid: 6462f25feb3c415428e4c0247ce4680d, type: 3}
+  - clipName: TimeUp
+    clip: {fileID: 8300000, guid: ab1e7f8e07ed2bc428d55600080b7589, type: 3}
+  - clipName: WellDone
+    clip: {fileID: 8300000, guid: 6cce2a1f2259f6c47b03b7daa7fe1618, type: 3}
+  - clipName: Perfect
+    clip: {fileID: 8300000, guid: 6cce2a1f2259f6c47b03b7daa7fe1618, type: 3}
+  - clipName: Curtain
+    clip: {fileID: 8300000, guid: 636abde7ecc97c14b9629d166eb224a1, type: 3}
+  - clipName: door
+    clip: {fileID: 8300000, guid: b10c1ac3a282b104d857bda403f44253, type: 3}
+  - clipName: ButtonClick
+    clip: {fileID: 8300000, guid: 8629a6d1dc77a834480ddfad00548acb, type: 3}
+  - clipName: ButtonHover
+    clip: {fileID: 8300000, guid: 7aca958d36732b742bb4e35f594b65bd, type: 3}
+  - clipName: Left4Min
+    clip: {fileID: 8300000, guid: b1b5858296305c24f9b5a7c356f7f3b3, type: 3}
+  - clipName: Left3Min
+    clip: {fileID: 8300000, guid: e8b718dc7f7d4fa438a1a480f54e4483, type: 3}
+  - clipName: Left2Min
+    clip: {fileID: 8300000, guid: 24a626a47a5220c40a80722cca51214e, type: 3}
+  - clipName: Left1Min
+    clip: {fileID: 8300000, guid: 4eade06df1ea1ce498acf20b7ee62fb1, type: 3}
+  - clipName: Left30Sec
+    clip: {fileID: 8300000, guid: 89a686c07c1f68948bba41c41f6bd12a, type: 3}
+  - clipName: Left10Sec
+    clip: {fileID: 8300000, guid: 9c696e0085eb0d94ea1b367a384faa9b, type: 3}
+  - clipName: StadiumInfo
+    clip: {fileID: 8300000, guid: 003c07f59025a44459b4babf5bd9adfa, type: 3}
+  - clipName: ChunkInfo
+    clip: {fileID: 8300000, guid: 196991d035bda3e40b4eb71dcc454600, type: 3}
+  - clipName: ChunkFindGuide
+    clip: {fileID: 8300000, guid: 72ef3d13b21e3cc4c958d847ba26df7a, type: 3}
+  - clipName: TimmerInfo
+    clip: {fileID: 8300000, guid: 50ded3ae6e203d8439607e8dc854ac89, type: 3}
+  - clipName: GameOverAudio
+    clip: {fileID: 8300000, guid: ca8a54537e2837448873cf1896d556d9, type: 3}
+  - clipName: GameCompleteAudio
+    clip: {fileID: 8300000, guid: 7f92f55bfdb19994a864ed795191d367, type: 3}
+  - clipName: Welcome
+    clip: {fileID: 8300000, guid: 9e725805b07b81841b8f0e9f1163d645, type: 3}

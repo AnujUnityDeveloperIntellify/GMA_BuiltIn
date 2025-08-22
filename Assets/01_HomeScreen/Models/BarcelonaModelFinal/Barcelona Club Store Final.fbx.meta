@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 54551984c128c9d468110a942f164196
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CCTV
+    second: {fileID: 2100000, guid: b4c3d01ae0456a14fb0ff36f5b3448de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 6d241ee3df9530041bc466c1b4a1d24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_lights
+    second: {fileID: 2100000, guid: cbac0b37863fcfc4c8e4b7b6ca12839e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 8b7fa66513e8d2449aed0079c98bb2e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_yellow_light
+    second: {fileID: 2100000, guid: b96b4e22a97cf824495793b569265f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 42d6687f5706ddc46a80f67299701afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass2
+    second: {fileID: 2100000, guid: 990a497b27bcf5f4fabbff902102fea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_base
+    second: {fileID: 2100000, guid: 0def11b6f31ddd94d9efb76d751bfca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logos
+    second: {fileID: 2100000, guid: 0a99f5afc7a6813438483be3865f80ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outer_walls
+    second: {fileID: 2100000, guid: e71b2a0c0a120ac4c85ed85b2c17a23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photos
+    second: {fileID: 2100000, guid: 4417655d52c727443b2e241b9ec9e5ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillars_and_tv_base
+    second: {fileID: 2100000, guid: f1f1128267aa1674789ab0cd34d863b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipes_lights
+    second: {fileID: 2100000, guid: 404724933470272448bc49643664c85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Print_shop1
+    second: {fileID: 2100000, guid: 54d16e2ae18f7b243a42f41c612ddb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelves_01
+    second: {fileID: 2100000, guid: 27c524b90d1be134a9ab3cb729c89ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text
+    second: {fileID: 2100000, guid: 6416aa7314e09a14c99e508e95b57b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_01
+    second: {fileID: 2100000, guid: 9099b5c628c278448b1b65f0ab1f7233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_02
+    second: {fileID: 2100000, guid: 65388b3dc4e522a46a7d397c798b87ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_03
+    second: {fileID: 2100000, guid: 7098fd1af88b54d41ba05fa097f21c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_04
+    second: {fileID: 2100000, guid: ea46df0d1bde428408042adcb5411c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_frames1
+    second: {fileID: 2100000, guid: 4348dc79e36cd8046ba54f8600232cae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: all_steel
+    second: {fileID: 2100000, guid: 24a9eb84d3e02104399b12211a6c92cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: board_logo
+    second: {fileID: 2100000, guid: 36b6e88547d391b449203b346a38986c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: board_stand_base
+    second: {fileID: 2100000, guid: 1cf186488e6c4cb40be519e9b4bf20c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: counter_table_area1
+    second: {fileID: 2100000, guid: c01e8bed4591be44eb2bb0651f50583c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frames1
+    second: {fileID: 2100000, guid: a4e08ea26729c5c44a2149849e2ec42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handel
+    second: {fileID: 2100000, guid: dc7e27fc013531d4aa4962c9141afe7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 2e389e93e8f4dae4187edc287ceb396b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_and_tv_base
+    second: {fileID: 2100000, guid: d074b633ef5c17f45ad47bfd576d1b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: print_shop_tv_screen
+    second: {fileID: 2100000, guid: 28584a929f03dcc41bf9a1c86207d649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_text
+    second: {fileID: 2100000, guid: c20b0fa1e3f577044971db63b3dd74ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: dcb72a6a65c0bbe489ebab514cd7d2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wardrobe2
+    second: {fileID: 2100000, guid: 6b0a0380cc0e3da49ac5a86741de6098, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barcelona Club 1
+    second: {fileID: 2800000, guid: 887d0d80fec19f640967ecf98fa86faa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barcelona Club 5
+    second: {fileID: 2800000, guid: 6b6b187ffd29974448d45b3aa8e620fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Barcelona Club 6
+    second: {fileID: 2800000, guid: 651ffd8a9c79b5f43b35667dc134ce0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2800000, guid: bc5c757ae83fe484bbeee447d6b7a088, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LogosBaseColor
+    second: {fileID: 2800000, guid: 3bf66baf13073cb498f7f3d4d55f5f88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PhotosBaseColor
+    second: {fileID: 2800000, guid: 24536d4f52739bd40933ee6cf669e18a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_01
+    second: {fileID: 2800000, guid: 1335011107ae3b84091f8c6a7557bc0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Top_tv_screen_02
+    second: {fileID: 2800000, guid: 0ff20096bc9c76f4eb4d6f4d87e1c016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Walls frames
+    second: {fileID: 2800000, guid: dd921726501b0194f968fdc1b4c72ce4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wardrobe 1_wardrobe2_BaseColor.1001
+    second: {fileID: 2800000, guid: 04ddafa5e53e7f74f81e7f405b01fdbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 'board logo '
+    second: {fileID: 2800000, guid: 059ad369f0925a944be45e7211f09bf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cctv
+    second: {fileID: 2800000, guid: c480665122a7816438f3d74255dc75d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2800000, guid: 900404c8c8f976e438350ffe17059ae8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: counter table area
+    second: {fileID: 2800000, guid: 1eea00dd7e81b0b4ea5378bc1046d09f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light and tv base
+    second: {fileID: 2800000, guid: 0c92780ad4fe3254bbd475d4cb439567, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: photoFramesBaseColor
+    second: {fileID: 2800000, guid: 836bc0c4d07d1f3418e8afef85950f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pillars and tv base
+    second: {fileID: 2800000, guid: fb6a905b1bbee0149b1901c7e5c2110f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes
+    second: {fileID: 2800000, guid: 386619e8f837d664485c9df6d0f399a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shelves_01
+    second: {fileID: 2800000, guid: 063cae6097ad37a4784135e25d672b8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall text
+    second: {fileID: 2800000, guid: 6a4afe6a7739d534c8bc5ac99974e4d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2800000, guid: 2ac4562d31270d84390c7b5aab8f80d2, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

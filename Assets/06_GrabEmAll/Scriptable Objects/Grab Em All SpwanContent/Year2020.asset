@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3078ebcd5034b340bfe7699586c2585, type: 3}
+  m_Name: Year2020
+  m_EditorClassIdentifier: 
+  yearAchievments:
+  - {fileID: 11400000, guid: 7d6765bf6e566c64e80dcc83a9fee731, type: 2}
+  - {fileID: 11400000, guid: 90718bc6ecbb9644fb9f9122cb72a5b1, type: 2}
+  - {fileID: 11400000, guid: 1010ec4238fdf8d4f8ff0726ab42f075, type: 2}
+  - {fileID: 11400000, guid: 0616d06d639471849b037cdac4a57eb1, type: 2}
+  - {fileID: 11400000, guid: 2fa03ad80a9a027458c4162483748961, type: 2}
+  - {fileID: 11400000, guid: dec199c62cae8854aa2b9df5ebdda151, type: 2}
+  - {fileID: 11400000, guid: e63af5ace9c9f6e4fb9bb7526f86a6ec, type: 2}
+  - {fileID: 11400000, guid: 4745c7eaafe07b249aabb5031b2f794e, type: 2}
+  - {fileID: 11400000, guid: bbe0b0d84d9e96047baf7460e5dc1b98, type: 2}
+  - {fileID: 11400000, guid: 4715358562a57f947b49c96faf8a6b90, type: 2}
+  - {fileID: 11400000, guid: e49d8529515b7854fb3f5f529231a518, type: 2}
+  - {fileID: 11400000, guid: b53df7064133c764f8caefb79034c8b7, type: 2}
+  - {fileID: 11400000, guid: 2ab9d8cafd6881b40b4cac228408e798, type: 2}
+  - {fileID: 11400000, guid: 25f0d6a3237607a42b12ab06ae524345, type: 2}
+  - {fileID: 11400000, guid: f4d3ffe5a0f4ad44b86f749421dff4ec, type: 2}
+  - {fileID: 11400000, guid: 0740af9e37ed06b478b333f356181237, type: 2}
+  - {fileID: 11400000, guid: 9e84a6729d9dd5e4cbcc3cba4abfc6a8, type: 2}
+  - {fileID: 11400000, guid: 65da2fedf47da4a419d07ee2a4f0f4e4, type: 2}
+  year: 6
+  achievementYear: 2020
+  yearDescriptions: 

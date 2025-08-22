@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daa06caf8df6dd74c867b8f44508d57e, type: 3}
+  m_Name: GrabEmAll
+  m_EditorClassIdentifier: 
+  audioEntries:
+  - clipName: BackgroundMusic
+    clip: {fileID: 8300000, guid: c106e71e8246a71418d379c8f91611e9, type: 3}
+  - clipName: GrabCorrect
+    clip: {fileID: 8300000, guid: b86df5082c2bbb14dbe6bbd8ecab2199, type: 3}
+  - clipName: Welcome
+    clip: {fileID: 8300000, guid: 35f99ba52fb5b9142a5f9b4d7feab66c, type: 3}
+  - clipName: LeaderBoardOne
+    clip: {fileID: 8300000, guid: 68c7ab0a7e8e15e43886ac4f7ec425fa, type: 3}
+  - clipName: LeaderBoardTwo
+    clip: {fileID: 8300000, guid: 12c35e6a7d9d4834499d36018232b12a, type: 3}
+  - clipName: LeaderBoardThree
+    clip: {fileID: 8300000, guid: 980aa2c7709d1034b8dbf90a89968330, type: 3}
+  - clipName: LeaderBoardFour
+    clip: {fileID: 8300000, guid: 6670279fd1953434e8df75bfa28c894d, type: 3}
+  - clipName: TutorialStart
+    clip: {fileID: 8300000, guid: 80d291b00bae84a42b0097d2cfa0ba61, type: 3}
+  - clipName: PickedGuided
+    clip: {fileID: 8300000, guid: 7a16ea5204306614580413644cfa4195, type: 3}
+  - clipName: ChooseCorrect
+    clip: {fileID: 8300000, guid: 18260a95f8188be47b33084815784227, type: 3}
+  - clipName: GameComplete
+    clip: {fileID: 8300000, guid: fb31e49e1d115fe4b9cc7f8eb708d04a, type: 3}
+  - clipName: Ready
+    clip: {fileID: 8300000, guid: 3de812befcab0d84caee7a8e11467808, type: 3}
+  - clipName: Set
+    clip: {fileID: 8300000, guid: a35965831d366a145bc4d552640c1965, type: 3}
+  - clipName: Go
+    clip: {fileID: 8300000, guid: beedb35071300704786bb672e8fa3008, type: 3}
+  - clipName: NextYearAnimation
+    clip: {fileID: 8300000, guid: fb31e49e1d115fe4b9cc7f8eb708d04a, type: 3}
+  - clipName: LeaderBoardFive
+    clip: {fileID: 8300000, guid: e46c9b9a17a7ef44284f75473a1dbca3, type: 3}
+  - clipName: LifeLost
+    clip: {fileID: 8300000, guid: e402ab542478f1f47ab5df16698fa0ab, type: 3}
+  - clipName: CollectPowerUp
+    clip: {fileID: 8300000, guid: cdd918f9bf3ac9e4db44dde9210dc018, type: 3}
+  - clipName: GameLost
+    clip: {fileID: 8300000, guid: ab1e7f8e07ed2bc428d55600080b7589, type: 3}
+  - clipName: IdealTimmerVocalAudio
+    clip: {fileID: 8300000, guid: 2ed2b49dd150470479498201eab867cc, type: 3}
+  - clipName: WaitForHint
+    clip: {fileID: 8300000, guid: 7627af2b44470024fb4762724bd5a38e, type: 3}
+  - clipName: IdealTimmerBeepAudio
+    clip: {fileID: 8300000, guid: b2766b09e5b0cac47931261a0230968e, type: 3}
+  - clipName: OneLifeLeft
+    clip: {fileID: 8300000, guid: 3c0d01bd5152d454ba3bc30102152ff0, type: 3}

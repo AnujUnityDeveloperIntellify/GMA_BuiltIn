@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daa06caf8df6dd74c867b8f44508d57e, type: 3}
+  m_Name: HomeSceneAudioData
+  m_EditorClassIdentifier: 
+  audioEntries:
+  - clipName: BackgroundMusicHS
+    clip: {fileID: 8300000, guid: c106e71e8246a71418d379c8f91611e9, type: 3}
+  - clipName: ButtonHover
+    clip: {fileID: 8300000, guid: 7aca958d36732b742bb4e35f594b65bd, type: 3}
+  - clipName: ButtonClick
+    clip: {fileID: 8300000, guid: 8629a6d1dc77a834480ddfad00548acb, type: 3}
