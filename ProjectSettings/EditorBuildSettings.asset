@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_HomeScreen/Scenes/HomeScreen.unity
+    path: Assets/_DIvoBuiltIn/01_HomeScreen/Scenes/HomeScreen.unity
     guid: 50680119668b4e8489fe16d270de00d7
   - enabled: 1
-    path: Assets/06_GrabEmAll/Scenes/GrabEmAll.unity
+    path: Assets/_DIvoBuiltIn/06_GrabEmAll/Scenes/GrabEmAll.unity
     guid: b4bed007116cf134491b9315abcfe560
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
